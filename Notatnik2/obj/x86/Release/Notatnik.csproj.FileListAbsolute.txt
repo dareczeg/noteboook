@@ -1,0 +1,3 @@
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Notatnik\obj\x86\Release\Notatnik.frmNotatnik.resources
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Notatnik\obj\x86\Release\Notatnik.Properties.Resources.resources
+C:\Users\Dariusz\AppData\Local\Temporary Projects\Notatnik\obj\x86\Release\Notatnik.csproj.GenerateResource.Cache

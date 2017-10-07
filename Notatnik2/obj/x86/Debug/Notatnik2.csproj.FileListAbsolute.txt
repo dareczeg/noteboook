@@ -1,0 +1,8 @@
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\bin\Debug\Notatnik2.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\bin\Debug\Notatnik2.pdb
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik.AboutBox1.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik.frmNotatnik.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik2.csproj.GenerateResource.Cache
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik2.exe
+C:\Users\Dariusz\documents\visual studio 2010\Projects\Notatnik2\Notatnik2\obj\x86\Debug\Notatnik2.pdb
